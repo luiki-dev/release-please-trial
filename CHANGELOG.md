@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/luiki-dev/release-please-trial/compare/v0.3.0...v1.0.0) (2026-10-23)
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([16c037e](https://github.com/luiki-dev/release-please-trial/commit/16c037e900005370d09bfc168ab1db36400efdd7))
+
 ## [0.3.0](https://github.com/luiki-dev/release-please-trial/compare/v0.2.0...v0.3.0) (2026-10-23)
 
 
