@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 (2026-10-23)
+
+## What's Changed
+* feat(orders): add ordering by @luiki-dev in https://github.com/luiki-dev/release-please-trial/pull/10
+
+
+**Full Changelog**: https://github.com/luiki-dev/release-please-trial/compare/v1.0.0...v1.1.0
+
 ## [1.0.0](https://github.com/luiki-dev/release-please-trial/compare/v0.3.0...v1.0.0) (2026-10-23)
 
 
