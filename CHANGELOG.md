@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.3.0](https://github.com/luiki-dev/release-please-trial/compare/v0.2.0...v0.3.0) (2026-10-23)
+
+
+### Features
+
+* **items:** add item quantities ([ad3af3f](https://github.com/luiki-dev/release-please-trial/commit/ad3af3ffbf314f05f2d093802ac4aae9358262fb))
+* **items:** add item quantities ([efc1de0](https://github.com/luiki-dev/release-please-trial/commit/efc1de01b34e80dc3fd2d2c7a4065d6a2729f854))
+* **items:** add item quantities ([91bd42b](https://github.com/luiki-dev/release-please-trial/commit/91bd42b96031a192c2ef914db3f554685daa043b))
+* **items:** add item quantities ([8491110](https://github.com/luiki-dev/release-please-trial/commit/84911104ca9e895721f9af986100acc83012d1e0))
+
 ## [0.2.0](https://github.com/luiki-dev/release-please-trial/compare/v0.1.0...v0.2.0) (2026-10-23)
 
 
